@@ -1,2 +1,5 @@
-# project-1
+
+start# project-1
 lerning
+started learning
+excited
